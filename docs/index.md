@@ -2,10 +2,8 @@
   <img width="500" height="300" src="./assets/graphics.004.jpeg">
 </p>
 
----
-title: Example page!
----
 
+**Example page!**
 **This is the main page of your docume**
 
 # Your 1st subesections: 
