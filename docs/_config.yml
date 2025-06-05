@@ -3,6 +3,7 @@ description: "Our first great site"
 
 # Build settings
 theme: minima
+minima_skin    : "classic"
 
 nav_pages:
      - page1.md
@@ -15,3 +16,5 @@ social_links:
 #     - title: Jekyll at X (formerly Twitter)
 #       icon: x-twitter
 #       url: "https://x.com/jekyllrb"
+
+logo: "/assets/photos/DSCI0187.JPG"
