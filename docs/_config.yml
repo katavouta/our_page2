@@ -1,6 +1,5 @@
 title: Our Page
-author:
-  name: The NEMO team 
+name: The NEMO team 
 description: "Our first great site"
 
 # Build settings
@@ -10,3 +9,11 @@ Minima skin selection: classic
 nav_pages:
      - page1.md
      - page2.md
+     
+social_links:
+- title: Github repository
+  icon: github
+  url: "https://github.com/katavouta/our_page2"
+#     - title: Jekyll at X (formerly Twitter)
+#       icon: x-twitter
+#       url: "https://x.com/jekyllrb"
