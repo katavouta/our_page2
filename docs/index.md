@@ -1,6 +1,7 @@
 #![image info](./assets/graphics.004.jpeg)
-
-<p style="text-align: center"><img src="./assets/graphics.004.jpeg" width="500"></p>
+<p align="center">
+  <img src="http:./assets/graphics.004.jpeg" width="500" />
+</p>
 
 ---
 title: Example page!
