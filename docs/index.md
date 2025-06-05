@@ -1,4 +1,4 @@
-![image info](./docs/assets/graphics.004.jpeg)
+![image info](./assets/graphics.004.jpeg)
 
 ---
 title: Example page!
