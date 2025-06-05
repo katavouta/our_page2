@@ -8,7 +8,7 @@
 
 # Your 1st subesections: 
 
-You can use subsection to seperate your text (these subsections will appear nicely on the top of the screen).
+You can use subsection to seperate your text 
 
 ---
 
