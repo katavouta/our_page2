@@ -1,3 +1,5 @@
+![image info](./docs/assets/graphics.004.jpeg)
+
 ---
 title: Example page!
 ---
