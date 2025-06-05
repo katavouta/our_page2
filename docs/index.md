@@ -1,5 +1,6 @@
-![image info](./assets/graphics.004.jpeg)
+#![image info](./assets/graphics.004.jpeg)
 
+<img src="./assets/graphics.004.jpeg" width="200" height="100">
 ---
 title: Example page!
 ---
