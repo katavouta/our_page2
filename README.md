@@ -38,3 +38,11 @@ If you want to create an additional **page** in your web simply create a new .md
 All these md files are essentially written in Markdown. You can find information about syntax and rules for markdown here:
 <a href="https://www.markdownguide.org/cheat-sheet/">https://www.markdownguide.org/cheat-sheet/</a>
 
+---
+
+# Good to know
+
+Here I am using a basic theme for my webpage called minima (you do not have to use any theme in reality)
+This is set in the _config.yml. We do not have to change this for this exercise but there are many available themes 
+in Jekyll that you can use to create your own personal websites in git!!!
+
