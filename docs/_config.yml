@@ -1,1 +1,12 @@
+title: Our Page
+author:
+  name: The NEMO team 
+description: "Our first great site"
+
+# Build settings
 theme: minima
+Minima skin selection: classic
+
+nav_pages:
+     - page1.md
+     - page2.md
