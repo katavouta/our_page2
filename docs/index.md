@@ -1,7 +1,5 @@
-#![image info](./assets/graphics.004.jpeg)
-
 <p align="center">
-  <img width="460" height="300" src="./assets/graphics.004.jpeg">
+  <img width="300" height="300" src="./assets/graphics.004.jpeg">
 </p>
 
 ---
