@@ -33,6 +33,11 @@ If you want to create an additional **page** in your web simply create a new .md
 
 ---
 
+## Where is your site
+
+Here is where my site is: <a href="https://katavouta.github.io/our_repo_page/">https://katavouta.github.io/our_repo_page/</a>
+You will be able to find your site similar in your_username.github.io/your_repository
+
 ## Markdown 
 
 All these md files are essentially written in Markdown. You can find information about syntax and rules for markdown here:
